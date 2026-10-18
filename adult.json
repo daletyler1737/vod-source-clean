@@ -1,30 +1,37 @@
 [
  {
   "name": "丝袜资源",
-  "api": "https://siwazyw.cc/api.php/provide/vod/"
+  "api": "https://siwazyw.cc/api.php/provide/vod/",
+  "note": "丝袜·美腿"
  },
  {
   "name": "KK写真",
-  "api": "https://kkzy.me/api.php/provide/vod/"
+  "api": "https://kkzy.me/api.php/provide/vod/",
+  "note": "写真·套图"
  },
  {
   "name": "JAV名优",
-  "api": "http://mygzycj.com/api.php"
+  "api": "http://mygzycj.com/api.php",
+  "note": "JAV·女优"
  },
  {
   "name": "淫水机资源",
-  "api": "https://www.xrbsp.com/api/json.php"
+  "api": "https://www.xrbsp.com/api/json.php",
+  "note": "日本无码·AV"
  },
  {
   "name": "黄AV资源",
-  "api": "https://www.pgxdy.com/api/json.php"
+  "api": "https://www.pgxdy.com/api/json.php",
+  "note": "综合AV"
  },
  {
   "name": "番号资源",
-  "api": "http://fhapi9.com/api.php/provide/vod/"
+  "api": "http://fhapi9.com/api.php/provide/vod/",
+  "note": "番号·伦理·无码·自拍"
  },
  {
   "name": "丝袜资源",
-  "api": "https://siwazyw.cc/api.php/provide/vod/at/json/"
+  "api": "https://siwazyw.cc/api.php/provide/vod/at/json/",
+  "note": "丝袜·美腿"
  }
 ]
