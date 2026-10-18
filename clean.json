@@ -48,10 +48,6 @@
   "api": "https://lbapi9.com/api.php/provide/vod/at/json"
  },
  {
-  "name": "番号资源",
-  "api": "http://fhapi9.com/api.php/provide/vod/"
- },
- {
   "name": "CK资源",
   "api": "https://ckzy.me/api.php/provide/vod/"
  },
