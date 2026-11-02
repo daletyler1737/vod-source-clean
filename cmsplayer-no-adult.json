@@ -1,0 +1,57 @@
+[
+ {
+  "name": "量子云",
+  "api": "https://cj.lziapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "非凡资源",
+  "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "暴风资源",
+  "api": "https://bfzyapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "百度资源",
+  "api": "https://api.apibdzy.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "360云",
+  "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "虎牙资源",
+  "api": "https://www.huyaapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "红牛资源",
+  "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "光速资源",
+  "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "金鹰资源",
+  "api": "https://jyzyapi.com/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "新浪资源",
+  "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+  "note": "已验无成人内容"
+ },
+ {
+  "name": "闪电资源",
+  "api": "https://sdzyapi.com/api.php/provide/vod/",
+  "note": "已验无成人内容"
+ }
+]

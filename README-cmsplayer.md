@@ -34,6 +34,7 @@ https://gh-proxy.com/raw.githubusercontent.com/daletyler1737/vod-source-clean/ma
 | 文件 | 内容 |
 | --- | --- |
 | `cmsplayer.json` | 12 个主用源，纯净（成人占比 ≤15%），按可用性排序 |
+| `cmsplayer-no-adult.json` | **11 个完全无成人内容的源**（3 页共 60 条标题逐个查过，0 命中），推荐用这个 |
 | `cmsplayer-adult.json` | 12 个成人源，单独一个文件，不想看就别填 |
 | `adult.json` | 旧版成人源（TVBox 格式） |
 | `final.m3u` / `select.m3u` / `region.m3u` | 直播源，给支持 M3U 的播放器（VLC/IPTV 客户端） |
