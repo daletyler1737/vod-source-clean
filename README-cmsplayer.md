@@ -2,17 +2,32 @@
 
 给 **cms-player (Apple TV)** 用的影视点播源，全部实测过：接口返回非空、取最新一部片子、抓到真实 m3u8 播放列表 (#EXTM3U) 才算通过。
 
-## 直接填进 App
+## 直接填进 App（按键盘手酸程度排序）
+
+**最短，Apple TV 上敲这个：**
 
 ```
-https://cdn.jsdelivr.net/gh/daletyler1737/vod-source-clean@main/cmsplayer.json
+https://tinyurl.com/247pz3t5
 ```
 
-备胎（jsdelivr 被墙时换这个）：
+```
+https://clck.ru/3Wp64y
+```
+
+较短直链（不用短链服务时）：
 
 ```
+https://cdn.jsdelivr.net/gh/daletyler1737/xlz/1.json
+```
+
+原始直链：
+
+```
+https://cdn.jsdelivr.net/gh/daletyler1737/vod-source-clean/main/cmsplayer.json
 https://gh-proxy.com/raw.githubusercontent.com/daletyler1737/vod-source-clean/main/cmsplayer.json
 ```
+
+（短链是指向上面的 jsdelivr 直链，源一失效短链跟着废；换源时记得重建短链）
 
 ## 文件
 
